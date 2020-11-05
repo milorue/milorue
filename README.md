@@ -6,7 +6,7 @@ I build accessibility and other fun web projects. I hope to one day create a wor
 
 **Other Projects**
 
-- [enab.io](https://www/enab.io/)
+- [enab.io](https://enab.io/)
 *Accessibile locations (WIP)*
 
 - [jeti.app](https://www.jeti.app/)
