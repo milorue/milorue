@@ -1,17 +1,10 @@
 ## Hi, I'm Milo a Full Stack Web Developer & Software Engineer
 I build accessibility and other fun web projects. I hope to one day create a world that is more accessible through software.
 
-**Website:** 	[milo-rue.com](https://www.milo-rue.com/)
+**Website:** 	[milo-rue.com](https://www.milo-rue.com/) (its dead jim...)
 *My name without the dash is taken, 😔*
 
 **Other Projects**
-
-- [enab.io](https://enab.io/)
-*Accessibile locations (WIP)*
-
-- [jeti.app](https://www.jeti.app/)
-*Working on admin panels and api in GraphQL, NodeJS, and React*
-
 - [mtgraphql](https://mtgjson.com/graphql)
 *Magic the Gathering GraphQL API*
 
