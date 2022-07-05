@@ -1,5 +1,5 @@
 ## Hi, I'm Milo a Full Stack Web Developer & Software Engineer
-I build accessibility and other fun web projects. I hope to one day create a world that is more accessible through software.
+I write good code by day, garbage by night :D
 
 **Website:** 	[milo-rue.com](https://www.milo-rue.com/) (its dead jim...)
 *My name without the dash is taken, 😔*
